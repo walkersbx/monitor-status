@@ -1,0 +1,9 @@
+{
+  "name": "monitor-status",
+  "version": "1.0.0",
+  "description": "Minimal static monitoring status page (zero dependencies) for Uppcoder free tier",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node index.js" }
+}
